@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ## About Me 😄
 Formal Education: Honours ComSci Student. 
+
 Subfield Aim: ML/Deep Learning Researcher and Engineer.
 
 See my [LinkedIn](https://www.linkedin.com/in/kago-motlhabane-3729b72a1/?profileFormEntryPoint=GUIDANCE_CARD) for official institutional connections and complete network of peers. 
