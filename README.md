@@ -27,7 +27,9 @@ My first go at **academic research** has a theoretical, and practical focus on:
 - Efficient, modular benchmarking assembly and config management over: Neural network architectures, optimisers and their inductive learning biases due to varied dataset distributions. 
 - Beyond standard metrics, creation of custom hooks to track promising search trajectory properties in the literature related to loss and accuracy trajectories. 
 - Open sourcing, documenting the work and techniques used once complete. 
-- Formalising mathematical and geometrically visualised knowledge over linear and non-linear algebra. 
+- Formalising mathematical and geometrically visualised knowledge over linear and non-linear algebra.
+
+The unified research title/question and unique specifics driving the choices above will only be revealed when repo of prototype is public. 
 
 ## Items scheduled to soon work on 📅
 
