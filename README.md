@@ -18,7 +18,7 @@ Formal Education: Honours ComSci Student.
 
 Subfield Aim: ML/Deep Learning Researcher and Engineer.
 
-See my [LinkedIn](https://www.linkedin.com/in/kago-motlhabane-3729b72a1/?profileFormEntryPoint=GUIDANCE_CARD) for official institutional and other related connections. 
+See my [LinkedIn](https://www.linkedin.com/in/kago-motlhabane-3729b72a1/?profileFormEntryPoint=GUIDANCE_CARD) for official institutional connections, and related. 
 
 ## Currently working on formally 🛠️
 
