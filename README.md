@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kaglet/kaglet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Me 😄
+## About Me 😄
 Formal Education: Honours ComSci Student. 
 Subfield Aim: ML/Deep Learning Researcher and Engineer.
 
