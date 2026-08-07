@@ -26,7 +26,7 @@ Contacts in [profile page](https://github.com/kaglet), via personal email or Lin
 
 My first go at **academic research** has a theoretical, and practical focus on: 
 
-- Efficient, modular benchmarking assembly and config management over: Neural network architectures, optimisers and their inductive learning biases due to varied dataset distributions. 
+- Efficient, modular benchmarking assembly and config management over: Neural network architectures, optimisers and their inductive learning biases due to dataset distribution traits. 
 - Beyond standard metrics, creation of custom hooks to track promising search trajectory properties in the literature related to loss and accuracy trajectories. 
 - Open sourcing, documenting the work and techniques used once complete. 
 - Formalising mathematical and geometrically visualised knowledge over linear and non-linear algebra.
@@ -39,7 +39,7 @@ Currently connecting with people and communities working on skills/gaps related 
 - **Scientific communication**: Evaluating the disconnect between academic research, public reception, and work shopping human centred narratives and storytelling while retaining accuracy. 
 - **Sustainability**: Engaging with domain experts. Then working over the intersection of sustainability fields and designing sustainably scaled machine learning solutions to match. 
 - **Volunteering**: Open source communities/projects, collaboration with peers, communities for underserved communities, especially related to Southern Africa.  
-- **Modularity and decentralisation**: Modular, decoupled design philosophies, projects, and frameworks. One example is defining new ways of structuring and rapidly experimenting on well defined neural network components based on mathematical properties requiring study. This occurs while still allowing granular control at any level. One early stage project I aim to contribute to, is [Modula](https://github.com/modula-systems/modula), stemming from key published authors related to my research.
+- **Modularity and decentralisation**: Modular, decoupled design philosophies, projects, and frameworks. One example is defining new ways of structuring and rapidly experimenting on well defined neural network components based on mathematical properties requiring study. This occurs while still allowing granular control at any level. One early stage project I aim to learn from, is [Modula](https://github.com/modula-systems/modula), stemming from key authors related to my research.
 
 ## Updates 🕑
 
