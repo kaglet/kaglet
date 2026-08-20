@@ -27,7 +27,7 @@ My first go at formal research has a theoretical, and practical focus on:
 - Efficient, modular benchmark and config assembly over: Deep learning architectures, candidate optimisers, datasets. Study is over inductive learning biases and search trajectory properties that explain certain behaviours. 
 - My documenting of the mathematical and geometrically visualised knowledge over linear and non-linear algebra gained. 
 
-To be open sourced once complete.  
+To be open sourced once complete for reproducibility.  
 
 ## Current projects of interest 🌱 
  [Modula](https://github.com/modula-systems/modula), related to my research, as the next stage. Next goal is to learn about it more and perhaps contribute. 
