@@ -18,31 +18,18 @@ Formal Education: Honours ComSci Student.
 
 Subfield Aim: ML/Deep Learning Researcher and Engineer.
 
-See my [LinkedIn](https://www.linkedin.com/in/kago-motlhabane-3729b72a1/?profileFormEntryPoint=GUIDANCE_CARD) for official institutional connections, and related. 
-
-Contacts in [profile page](https://github.com/kaglet), via personal email or LinkedIn. 
+See my [LinkedIn](https://www.linkedin.com/in/kago-motlhabane-3729b72a1/?profileFormEntryPoint=GUIDANCE_CARD). 
 
 ## Currently working on formally 🛠️
 
-My first go at **academic research** has a theoretical, and practical focus on: 
+My first go at formal research has a theoretical, and practical focus on: 
 
-- Efficient, modular benchmarking assembly and config management over: Neural network architectures, optimisers and their inductive learning biases due to dataset distribution traits. 
-- Beyond standard metrics, creation of custom hooks to track promising search trajectory properties in the literature related to loss and accuracy trajectories. 
-- Open sourcing, documenting the work and techniques used once complete. 
-- Formalising mathematical and geometrically visualised knowledge over linear and non-linear algebra.
+- Efficient, modular benchmark and config assembly over: Deep learning architectures, candidate optimisers, datasets. Study is over inductive learning biases and search trajectory properties that explain certain behaviours. 
+- My documenting of the mathematical and geometrically visualised knowledge over linear and non-linear algebra gained. 
 
-The unified research title/question and unique specifics driving the choices above will only be revealed when repo of prototype is public. 
+To be open sourced once complete.  
 
-## Items scheduled to soon work on 📅
+## Current projects of interest
+ [Modula](https://github.com/modula-systems/modula), related to my research, as the next stage. Next goal is to learn about it more and perhaps contribute. 
 
-Currently connecting with people and communities working on skills/gaps related to:
-- **Scientific communication**: Evaluating the disconnect between academic research, public reception, and work shopping human centred narratives and storytelling while retaining accuracy. 
-- **Sustainability**: Engaging with domain experts. Then working over the intersection of sustainability fields and designing sustainably scaled machine learning solutions to match. 
-- **Volunteering**: Open source communities/projects, collaboration with peers, communities for underserved communities, especially related to Southern Africa.  
-- **Modularity and decentralisation**: Modular, decoupled design philosophies, projects, and frameworks. One example is defining new ways of structuring and rapidly experimenting on well defined neural network components based on mathematical properties requiring study. This occurs while still allowing granular control at any level. One early stage project I aim to learn from, is [Modula](https://github.com/modula-systems/modula), stemming from key authors related to my research.
-
-## Updates 🕑
-
-GitHub profile will be periodically updated with links to projects/communities for each area I prioritise working on/under or have historically completed. This includes historical tech stack and best projects (if private to be made safely public), and link to official online CV.
-
-<sup><sub>This page may also be further prettified in future 🤔.</sub></sup>
+* To be updated *
