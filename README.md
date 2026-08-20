@@ -29,7 +29,7 @@ My first go at formal research has a theoretical, and practical focus on:
 
 To be open sourced once complete.  
 
-## Current projects of interest
+## Current projects of interest 🌱 
  [Modula](https://github.com/modula-systems/modula), related to my research, as the next stage. Next goal is to learn about it more and perhaps contribute. 
 
 * To be updated *
